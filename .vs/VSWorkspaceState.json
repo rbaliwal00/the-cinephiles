@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Navigation",
+    "\\src\\Components\\UI",
+    "\\src\\Components\\UI\\Button",
+    "\\src\\Components\\UI\\ToggleButton",
+    "\\src\\Containers",
+    "\\src\\Containers\\Home",
+    "\\src\\Containers\\Home\\Menu"
+  ],
+  "SelectedNode": "\\src\\Containers\\Home\\Menu\\Menu.js",
+  "PreviewInSolutionExplorer": false
+}

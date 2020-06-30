@@ -1,0 +1,20 @@
+.Navbar{
+    background-color: black;
+}
+
+.Menu:hover {
+    background-color: rgba(211, 211, 211, 0.3);
+}
+
+.All{
+
+}
+
+.Search{
+
+}
+
+.Line {
+    border-left: 3px solid grey;
+    height: 40px;
+}

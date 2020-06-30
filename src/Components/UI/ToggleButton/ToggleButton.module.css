@@ -1,0 +1,11 @@
+.ToggleButton div{
+    width: 30px;
+    height: 3px;
+    background-color: lightgray;
+    margin: 6px 6px;
+    position: relative;
+}
+
+.ToggleButton:hover > #strip {
+    background-color: white;
+}

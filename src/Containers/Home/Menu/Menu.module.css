@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.Brand {
+    margin-top: 10px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Bradley Hand ITC';
+}
+
+.Description {
+    margin-top: -10px;
+    margin-left: -10px;
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    font-family: 'Bradley Hand ITC';
+}
+
+.Close {
+    color: gold;
+    font-size: 50px;
+    position: relative;
+    top: 15px;
+    float: right;
+}

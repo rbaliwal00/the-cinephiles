@@ -1,0 +1,30 @@
+.input-icons i {
+    
+}
+
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    right: 175px;
+    top: 12px;
+    opacity: .4;
+    position: absolute;
+    cursor: pointer;
+}
+
+.input-field {
+    width: 90%;
+    padding: 10px;
+    text-align: left;
+    cursor: auto;
+}
+
+
+@media (max-width: 1400px) {
+    .icon {
+        right: 150px;
+    }
+}
